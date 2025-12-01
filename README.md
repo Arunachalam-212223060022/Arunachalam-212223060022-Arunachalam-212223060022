@@ -100,41 +100,13 @@ and almost every modern lighting technology we use today.
 
 </div>
 
-
 <p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="animatedNeon" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00eaff" />
-        <stop offset="50%" stop-color="#7c3aed" />
-        <stop offset="100%" stop-color="#22c55e" />
-      </linearGradient>
-      <filter id="neonGlow" x="-20%" y="-20%" width="150%" height="150%">
-        <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <path id="wavePath"
-      d="M0 60 C 300 20, 900 100, 1200 60 L 1200 120 L 0 120 Z"
-      fill="url(#animatedNeon)"
-      filter="url(#neonGlow)"
-      opacity="0.9">
-      <animate
-        attributeName="d"
-        dur="6s"
-        repeatCount="indefinite"
-        values="
-          M0 60 C 300 20, 900 100, 1200 60 L 1200 120 L 0 120 Z;
-          M0 70 C 250 10, 950 110, 1200 70 L 1200 120 L 0 120 Z;
-          M0 55 C 280 30, 920 90, 1200 55 L 1200 120 L 0 120 Z;
-          M0 60 C 300 20, 900 100, 1200 60 L 1200 120 L 0 120 Z
-        " />
-    </path>
-  </svg>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=80&section=footer&text=&fontSize=0" 
+    width="100%" 
+  />
 </p>
+
 
 
 # 🧠 Skill Radar (3D-style bar levels)
