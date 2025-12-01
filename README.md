@@ -65,7 +65,7 @@ mindset
 iterate -> simulate -> debug -> refine -> build
 
 ---
-
+---
 <!-- ✨ FUN FACT – NEON GLOW CARD -->
 <div align="center">
 
@@ -96,7 +96,7 @@ and almost every modern lighting technology we use today.
 </p>
 
 </div>
-
+---
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=80&section=footer&text=&fontSize=0" 
