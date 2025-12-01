@@ -126,29 +126,6 @@ Timing Analysis • Logic Analysis • Testbench Creation • RTL Synthesis • 
 ### 🛠 Platforms  
 VS Code • Git • Google Colab • MATLAB • TinkerCAD • Arduino IDE  
 
----
-
-# ✨ Highlight Panels
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="300" style="padding:16px;background:rgba(93,112,255,0.15);border-radius:12px;border:1px solid rgba(93,112,255,0.4);">
-<b>🔷 RTL & FPGA</b><br/>FSM, datapath, synthesis, timing.
-</td>
-
-<td align="center" width="300" style="padding:16px;background:rgba(236,72,153,0.15);border-radius:12px;border:1px solid rgba(236,72,153,0.4);">
-<b>🔶 Embedded Systems</b><br/>ESP32, real-time logic, sensor integration.
-</td>
-
-<td align="center" width="300" style="padding:16px;background:rgba(34,197,94,0.15);border-radius:12px;border:1px solid rgba(34,197,94,0.4);">
-<b>🟩 Circuit Simulation</b><br/>LTspice, Proteus, Multisim workflows.
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
