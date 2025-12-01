@@ -177,6 +177,7 @@ FSM-based controller designed in Verilog and synthesized using Quartus.
     width="100%" 
   />
 </p>
+
 # 💼 Experience
 
 **NSIC Technical Services Centre — Intern**  
