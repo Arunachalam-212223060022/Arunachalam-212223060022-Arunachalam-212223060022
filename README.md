@@ -66,23 +66,19 @@ iterate -> simulate -> debug -> refine -> build
 
 ---
 
-<table align="center">
-<tr>
-<td align="center" width="85%" style="
-  padding: 18px;
-  border: 2px solid #00eaff;
-  border-radius: 12px;
-  background: rgba(0, 20, 30, 0.85);
-  color: #d9faff;
-  font-size: 18px;
-  box-shadow: 0 0 12px #00eaffaa;
-">
-<b>Q:</b> Why can't Python developers C?<br><br>
-<b>A:</b> Because they keep getting lost in the indentation.
-</td>
-</tr>
-</table>
+<p align="center">
 
+╔══════════════════════════════════════════╗
+║                ⚡ FUN FACT                ║
+╠══════════════════════════════════════════╣
+║  Blue LEDs were considered "impossible"  ║
+║  for over 30 years. They finally became  ║
+║  real in 1993 — enabling white LEDs,     ║
+║  RGB displays, smartphone screens, and   ║
+║  almost all modern lighting.             ║
+╚══════════════════════════════════════════╝
+
+</p>
 
 
 # 🧠 Skill Radar (3D-style bar levels)
