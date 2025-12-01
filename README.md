@@ -15,7 +15,6 @@
         <stop offset="50%" stop-color="#00b7ff" />
         <stop offset="100%" stop-color="#008cff" />
       </linearGradient>
-
       <filter id="glowBlue" x="-20%" y="-20%" width="150%" height="150%">
         <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
         <feMerge>
@@ -24,7 +23,6 @@
         </feMerge>
       </filter>
     </defs>
-
     <path d="M0 60 C 300 20, 900 100, 1200 60 L 1200 120 L 0 120 Z"
           fill="url(#neonBlue)" filter="url(#glowBlue)" opacity="0.85" />
   </svg>
