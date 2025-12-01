@@ -1,3 +1,8 @@
+<!--
+  Updated Profile README for: Arunachalam P
+  Paste this into: Arunachalam-212223060022/Arunachalam-212223060022/README.md
+-->
+
 <!-- Gradient Title Banner -->
 <p align="center">
   <svg width="100%" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
@@ -22,32 +27,31 @@
   </svg>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Smooth) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=ECE+Student+who+prefers+debugging+over+sleep.;VLSI+%7C+RTL+Design+%7C+Embedded+Systems;Learning+by+building%2C+breaking%2C+and+fixing+again.;Turning+ideas+into+simulations+and+simulations+into+hardware."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+student+who+likes+debugging+more+than+sleep;VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+and+fixing+on+loop."/>
 </p>
 
 ---
 
 ## 🔥 About Me
 
-I'm **Arunachalam**, an Electronics & Communication Engineering student who enjoys the kind of problems that make most people shut their laptop and walk away —  
-whether it's a stubborn signal that refuses to settle, an FSM that misbehaves for *one* clock cycle, or an ESP32 that decides it wants to be a heater.
+I’m **Arunachalam**, an Electronics & Communication Engineering student who enjoys solving the kind of problems that require patience, logic, and sometimes talking to the hardware like it can hear me.
 
-I like building things that live somewhere between **logic gates and real-world systems** —  
-from RTL designs and FPGA workflows to embedded hardware and algorithm-driven applications.
+I'm not the “perfect-on-paper” type —  
+I’m the **try → fail → debug → fix → improve** type.  
+That’s where engineering feels real to me.
 
-If it involves:
-- low-level control  
-- timing behavior  
-- hardware interaction  
-- clean digital design  
-- or code that *talks* to something physical  
+I gravitate toward things like:
+- Digital logic that behaves *exactly* how you designed it  
+- Embedded systems that do something meaningful in the real world  
+- RTL design where every clock edge matters  
+- Circuits that look simple but are secretly dramatic  
 
-…I’m in.
+I’m currently exploring VLSI, RTL flows, FPGA design, and more structured embedded development.  
+**Goal:** Become the engineer who understands both the system *and* the signal.
 
-Right now, I’m pushing myself deeper into **VLSI, RTL, FPGA design, embedded systems**, and better engineering practices.  
-Not trying to be the smartest in the room — just the one who never stops learning.
+If you’re doing something cool in hardware, VLSI, or embedded — I’ll probably want to hear about it.
 
 ---
 
@@ -66,21 +70,21 @@ Not trying to be the smartest in the room — just the one who never stops learn
 </p>
 
 ### **Programming & HDL**
-`C` · `C++` · `Python` · `Embedded C` · `Verilog` · `RTL`
+C · C++ · Python · Embedded C · Verilog · RTL
 
 ### **Electronics & Embedded**
-`ESP-32` · `Arduino` · `IoT` · `Analog/Digital Electronics` · `Sensors & Actuators`
+ESP-32 · Arduino · IoT · Analog/Digital Electronics · Sensors & Actuators
 
 ### **VLSI, Circuits & EDA Tools**
-`Quartus` · `Vivado` · `Cadence Virtuoso` · `Multisim` · `LTspice` · `Proteus`  
-`PCB Layout` · `Schematic Design`
+Quartus · Vivado · Cadence Virtuoso · Multisim · LTspice · Proteus  
+Schematic Design · PCB Layout
 
 ### **Simulation, Testing & Debug**
-`Timing Analysis` · `Logic Analysis` · `Testbench Creation` · `RTL Synthesis`  
-`Debugging` · `Circuit Simulation`
+Timing Analysis · Logic Analysis · Testbench Creation  
+RTL Synthesis · Debugging · Circuit Simulation
 
 ### **Tools**
-`Google Colab` · `MATLAB (Basics)` · `VS Code` · `Git` · `TinkerCAD` · `Arduino IDE`
+Google Colab · MATLAB (Basics) · Git · VS Code · TinkerCAD · Arduino IDE
 
 ---
 
@@ -93,14 +97,14 @@ Not trying to be the smartest in the room — just the one who never stops learn
 
 ## 🧪 Projects
 
-### 🔹 **Indoor Navigation using A\* Algorithm**
-Algorithm-driven indoor pathfinding using **A\***, heuristics, and grid mapping.
+### 🔹 Indoor Navigation using A* Algorithm
+Algorithm-driven indoor pathfinding using grid mapping and A*.
 
-### 🔹 **Smart Pill Dispenser using ESP-32**
-Automated dispenser with **sensors**, real-time alerts, and timed release logic.
+### 🔹 Smart Pill Dispenser using ESP-32
+Automated scheduled pill dispenser with sensors and embedded logic.
 
-### 🔹 **Traffic Light Controller (FPGA + Verilog)**
-FSM-based digital controller synthesized and tested using **Quartus**.
+### 🔹 Traffic Light Controller (FPGA + Verilog)
+FSM-based traffic controller designed in Verilog and synthesized in Quartus.
 
 ---
 
@@ -113,14 +117,14 @@ FSM-based digital controller synthesized and tested using **Quartus**.
 
 ## 💼 Experience
 
-### **🛠 Intern – NSIC Technical Services Centre (Jul 2024)**
-Circuit simulation, prototyping, testing, and real-time analysis.
+### 🛠 Intern – NSIC Technical Services Centre (Jul 2024)
+Circuit simulation, prototyping, hardware testing, and real-time analysis.
 
-### **💻 VLSI Intern – Codec Technology (Nov 2024)**
-Hands-on Verilog, RTL workflows, FPGA-based projects, debugging & synthesis.
+### 💻 VLSI Intern – Codec Technology (Nov 2024)
+Hands-on Verilog, RTL, FPGA workflows, debugging & synthesis.
 
-### **📘 Freelance Teaching Professional (2023 – Present)**
-Teaching STEM & core academic subjects with a concept-first approach.
+### 📘 Freelance Teaching Professional (2023 – Present)
+STEM tutoring with a focus on conceptual understanding and progress.
 
 ---
 
@@ -128,10 +132,10 @@ Teaching STEM & core academic subjects with a concept-first approach.
 
 - **B.E. Electronics and Communication Engineering**  
   Saveetha Engineering College, Chennai  
-  **CGPA:** 8.4 / 10
+  CGPA: 8.4 / 10
 
 - **Higher Secondary (XII)**  
-  DAV MHSS – 81%
+  DAV MHSS — 81%
 
 ---
 
@@ -150,5 +154,5 @@ Teaching STEM & core academic subjects with a concept-first approach.
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for scrolling this far — you’re awesome.</sub>
+  <sub>✨ Appreciate you stopping by — have an amazing day.</sub>
 </p>
