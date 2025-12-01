@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1900&pause=1300&color=58A6FF&center=true&vCenter=true&width=800&lines=ECE+student+who+treats+hardware+like+a+puzzle;VLSI+%7C+RTL+Design+%7C+FPGA+%7C+Embedded+Systems;Turning+concepts+into+circuits+and+circuits+into+reality;Breaking+things+to+understand+them+better;Debugging+is+my+superpower;Trying+to+understand+both+the+system+and+the+signal" />
 </p>
 
----
 <p align="center">
   <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -27,8 +26,6 @@
           fill="url(#neonBlue)" filter="url(#glowBlue)" opacity="0.85" />
   </svg>
 </p>
-
----
 
 # 🔥 About Me
 
@@ -200,6 +197,13 @@ Verilog, RTL, FPGA workflows, debugging & synthesis.
 STEM tutoring with a concept-first approach.
 
 ---
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80&section=footer&text=&fontSize=0" 
+    width="100%" 
+  />
+</p>
+
 
 # 🎓 Education
 
