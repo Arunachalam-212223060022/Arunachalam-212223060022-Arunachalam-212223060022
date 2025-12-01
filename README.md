@@ -50,20 +50,20 @@ you already have my attention.
 ---
 
 <!-- ✨ Terminal Aesthetic Box -->
-whoami
+```
+> whoami
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
-focus --areas
+> focus --areas
 RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 
-mindset
+> mindset
 iterate -> simulate -> debug -> refine -> build
 
-fun_fact
+> fun_fact
 My code works… eventually.
+```
 
-yaml
-Copy code
 
 ---
 
