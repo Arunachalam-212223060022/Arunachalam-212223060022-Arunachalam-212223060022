@@ -67,50 +67,23 @@ iterate -> simulate -> debug -> refine -> build
 ---
 ---
 <!-- ✨ FUN FACT – NEON GLOW CARD -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1,a855f7,22d3ee&height=90&section=header&text=&fontSize=0" 
-    width="100%" 
-  />
-</p>
-
-
 <div align="center">
-
-<br>
-
 <p style="
-  padding: 18px; 
-  border-radius: 12px; 
-  width: 85%; 
-  background: #0f0f0f; 
+  padding: 16px;
+  width: 80%;
+  border-radius: 14px;
+  background: #0f0f0f;
   border: 1px solid rgba(0, 255, 255, 0.4);
-  box-shadow: 0 0 12px rgba(0, 255, 255, 0.3), 0 0 30px rgba(0, 255, 255, 0.25);
-  font-size: 18px; 
-  font-family: 'Segoe UI', sans-serif; 
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.3),
+              0 0 25px rgba(0, 255, 255, 0.25);
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 17px;
   color: #d9faff;
 ">
-
-<span style="font-size: 24px; font-weight: 700; color: #00eaff;">
-⚡ Fun Fact
-</span>
-
-<br><br>
-
-Blue LEDs were considered <b>"impossible"</b> for more than 30 years.  
-They became real only in <b>1993</b>, enabling <b>white LEDs, RGB displays, smartphone screens</b>  
-and almost every modern lighting technology we use today.
-
+<b>Q:</b> Why can't Python developers C?<br>
+<b>A:</b> Because they keep getting lost in the indentation.
 </p>
-
 </div>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1,a855f7,22d3ee&height=90&section=footer&text=&fontSize=0" 
-    width="100%" 
-  />
-</p>
 
 
 
