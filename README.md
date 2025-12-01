@@ -61,13 +61,13 @@ and understanding what the **signal** is trying to say.
 
 ## 🧾 Terminal Card
 
-whoami
+Who am I:
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
-focus --areas
+focus--areas:
 RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 
-mindset
+mindset:
 iterate → simulate → debug → refine → build
 
 ---
