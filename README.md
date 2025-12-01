@@ -194,7 +194,7 @@ STEM tutoring with a concept-first approach.
   />
 </p>
 
-
+---
 # 🎓 Education
 
 - **B.E. Electronics & Communication Engineering** — CGPA: 8.4  
@@ -202,14 +202,7 @@ STEM tutoring with a concept-first approach.
 
 - **Higher Secondary (XII)** — 81%  
   DAV MHSS, Chennai
-
-  <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=facc15&height=80&section=footer&text=&fontSize=0" 
-    width="100%" 
-  />
-</p>
-
+---
 
 # 🌐 Let’s Connect
 
@@ -221,4 +214,10 @@ STEM tutoring with a concept-first approach.
 
 <p align="center">
   <sub>✨ Thanks for scrolling — you're awesome.</sub>
+</p>
+  <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=facc15&height=80&section=footer&text=&fontSize=0" 
+    width="100%" 
+  />
 </p>
