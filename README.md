@@ -157,6 +157,7 @@ Scheduled medication dispenser using ESP32, sensors and embedded logic.
 FSM-based controller designed in Verilog and synthesized using Quartus.
 
 ---
+### 🐍 Hey snake... stopppp eating my contributions 😭
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arunachalam-212223060022/Arunachalam-212223060022/output/github-contribution-grid-snake-dark.svg" />
@@ -179,7 +180,6 @@ Verilog, RTL, FPGA workflows, debugging & synthesis.
 
 **Freelance Teaching — 2023–Present**  
 STEM tutoring with a concept-first approach.
-
 
 <p align="center">
   <img 
