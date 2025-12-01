@@ -66,22 +66,27 @@ iterate -> simulate -> debug -> refine -> build
 
 ---
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="85%" style="
+  padding: 18px;
+  border: 2px solid #0ea5e9;
+  border-radius: 12px;
+  background: #0d1117;
+  color: #e6f7ff;
+  font-size: 17px;
+">
+<b>⚡ FUN FACT</b><br><br>
+Blue LEDs were considered "impossible" for over 30 years.<br>
+Their invention in 1993 made white LEDs, RGB screens,<br>
+and almost all modern displays possible.
+</td>
+</tr>
+</table>
 
-╔══════════════════════════════════════════╗
-║                ⚡ FUN FACT                ║
-╠══════════════════════════════════════════╣
-║  Blue LEDs were considered "impossible"  ║
-║  for over 30 years. They finally became  ║
-║  real in 1993 — enabling white LEDs,     ║
-║  RGB displays, smartphone screens, and   ║
-║  almost all modern lighting.             ║
-╚══════════════════════════════════════════╝
-
-</p>
 
 
-# 🧠 Skill Radar (3D-style bar levels)
+# 🧠 Skill Radar 
 
 | Area              | Level                        |
 |-------------------|------------------------------|
@@ -159,7 +164,12 @@ FSM-based controller designed in Verilog and synthesized using Quartus.
 </p>
 
 ---
-
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80&section=header&text=&fontSize=0" 
+    width="100%" 
+  />
+</p>
 # 💼 Experience
 
 **NSIC Technical Services Centre — Intern**  
@@ -171,7 +181,7 @@ Verilog, RTL, FPGA workflows, debugging & synthesis.
 **Freelance Teaching — 2023–Present**  
 STEM tutoring with a concept-first approach.
 
----
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80&section=footer&text=&fontSize=0" 
