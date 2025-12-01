@@ -1,72 +1,85 @@
 <!--
-  Updated Profile README for: Arunachalam P
-  Paste this into: Arunachalam-212223060022/Arunachalam-212223060022/README.md
+  NEXT-LEVEL README FOR: Arunachalam P
+  Add to repo: Arunachalam-212223060022/Arunachalam-212223060022
 -->
 
-<!-- Gradient Title Banner -->
+<!-- ✨ Gradient Hero Banner -->
 <p align="center">
-  <svg width="100%" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4f46e5"/>
-        <stop offset="50%" stop-color="#ec4899"/>
-        <stop offset="100%" stop-color="#22c55e"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="20" y="20" width="860" height="110" rx="18" fill="url(#grad)" filter="url(#glow)" opacity="0.95"/>
-    <text x="50%" y="85" font-size="32" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif">
-      Hello there, I'm Arunachalam 👋
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=70&section=header&text=Hello%20there,%20I'm%20Arunachalam%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation (More Lines, Still Smooth) -->
+<!-- ✨ Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+student+who+likes+debugging+more+than+sleep;VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+and+fixing+on+loop.;Digital+logic+%26+embedded+systems+enjoyer;Trying+to+understand+both+the+system+and+the+signal."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=ECE+Student+(but+treats+hardware+like+a+thriller+movie);VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+fixing+-+repeat;Digital+logic+is+my+comfort+zone;Trying+to+understand+both+the+system+and+the+signal."/>
 </p>
 
 ---
 
-## 🔥 About Me
-
-I’m **Arunachalam**, an Electronics & Communication Engineering student who enjoys solving the kind of problems that require patience, logic, and sometimes talking to the hardware like it can hear me.
-
-I'm not the “perfect-on-paper” type —  
-I’m the **try → fail → debug → fix → improve** type.  
-That’s where engineering feels real to me.
-
-I gravitate toward things like:
-- Digital logic that behaves *exactly* how you designed it  
-- Embedded systems that do something meaningful in the real world  
-- RTL design where every clock edge matters  
-- Circuits that look simple but are secretly dramatic  
-
-I’m currently exploring VLSI, RTL flows, FPGA design, and more structured embedded development.  
-**Goal:** Become the engineer who understands both the system *and* the signal.
-
-If you’re doing something cool in hardware, VLSI, or embedded — I’ll probably want to hear about it.
+<!-- 🧬 Animated Wave Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+</p>
 
 ---
 
-<!-- Wave Divider -->
+# 🔥 About Me
+
+I’m **Arunachalam**, an Electronics & Communication Engineering student who enjoys engineering problems that are:
+
+- too logical for normal people  
+- too chaotic for textbooks  
+- and somehow *fun* for me  
+
+I'm not the “memorize everything” engineer —  
+I’m the **debug-until-it-works** engineer.
+
+If something involves:
+- timing behavior  
+- logic states  
+- waveforms that look wrong but “feel right”  
+- circuits that scream for help  
+- embedded systems that misbehave at 3 AM  
+
+…I’m interested.
+
+I love turning **concepts → simulations → hardware**,    
+and understanding **exactly what the signal is trying to say**.
+
+Currently diving deeper into **VLSI, RTL flows, FPGA design, and embedded logic architecture.**
+
+If your project involves chips, circuits, timing diagrams or microcontrollers —  
+you already have my attention.
+
+---
+
+<!-- ✨ Terminal Aesthetic Box -->
+whoami
+Arunachalam – ECE | VLSI | RTL | Embedded Systems
+
+focus --areas
+RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
+
+mindset
+iterate -> simulate -> debug -> refine -> build
+
+fun_fact
+My code works… eventually.
+
+
+---
+
+<!-- 💠 TECH RADAR (Radar Chart) -->
 <p align="center">
-  <svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 30 Q 160 0 320 30 T 640 30 T 900 30 V 60 H 0 Z" fill="#0b1020"/>
-  </svg>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['RTL','VLSI','Embedded','Debugging','Circuits','Simulation'],datasets:[{label:'Skill Level',data:[90,85,80,88,82,90],borderColor:'rgb(93,112,255)',backgroundColor:'rgba(93,112,255,0.3)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="500">
 </p>
 
-## 🚀 Tech Stack
+---
 
-<!-- 3D Icons -->
+# 🚀 Tech Stack
+
+<!-- 🔥 Icon Row (3D-like) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,bash,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,vscode,bash&theme=dark" />
 </p>
 
 ### **Programming & HDL**
@@ -75,78 +88,98 @@ C · C++ · Python · Embedded C · Verilog · RTL
 ### **Electronics & Embedded**
 ESP-32 · Arduino · IoT · Analog/Digital Electronics · Sensors & Actuators
 
-### **VLSI, Circuits & EDA Tools**
-Quartus · Vivado · Cadence Virtuoso · Multisim · LTspice · Proteus  
-Schematic Design · PCB Layout
+### **VLSI / Circuits / EDA Tools**
+Quartus · Vivado · Cadence Virtuoso · Multisim · LTspice · Proteus · PCB Layout
 
-### **Simulation, Testing & Debug**
-Timing Analysis · Logic Analysis · Testbench Creation  
-RTL Synthesis · Debugging · Circuit Simulation
+### **Debugging / Analysis / Simulation**
+Timing Analysis · Logic Analysis · Testbench Creation · RTL Synthesis · Hardware Debugging
 
-### **Tools**
-Google Colab · MATLAB (Basics) · Git · VS Code · TinkerCAD · Arduino IDE
+### **Platforms / Tools**
+VS Code · Git · Google Colab · MATLAB · TinkerCAD · Arduino IDE
 
 ---
 
-<!-- Wave Divider -->
-<p align="center">
-  <svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 40 Q 200 60 450 40 T 900 40 V 60 H 0 Z" fill="#020617"/>
-  </svg>
-</p>
+<!-- 🔥 Glow Panels for Key Skills -->
+<div align="center">
 
-## 🧪 Projects
+<table>
+<tr>
+<td align="center" width="300" style="padding:20px;background:rgba(93,112,255,0.15);border-radius:12px;border:1px solid rgba(93,112,255,0.4);">
+<b>✨ RTL & FPGA</b><br>FSMs, datapaths, simulation, synthesis, timing.
+</td>
+
+<td align="center" width="300" style="padding:20px;background:rgba(236,72,153,0.15);border-radius:12px;border:1px solid rgba(236,72,153,0.4);">
+<b>⚡ Embedded Systems</b><br>ESP32, sensors, real-time logic.
+</td>
+
+<td align="center" width="300" style="padding:20px;background:rgba(34,197,94,0.15);border-radius:12px;border:1px solid rgba(34,197,94,0.4);">
+<b>🧪 Circuit Simulation</b><br>LTspice, Multisim, Proteus workflows.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧪 Projects
 
 ### 🔹 Indoor Navigation using A* Algorithm
-Algorithm-driven indoor pathfinding using grid mapping and A*.
+Pathfinding with heuristics, grid mapping, and simulation.
 
 ### 🔹 Smart Pill Dispenser using ESP-32
-Automated scheduled pill dispenser with sensors and embedded logic.
+Timed dispensing with sensors + embedded logic.
 
 ### 🔹 Traffic Light Controller (FPGA + Verilog)
-FSM-based traffic controller designed in Verilog and synthesized in Quartus.
+FSM-based controller synthesized and tested in Quartus.
 
 ---
 
-<!-- Wave Divider -->
+<!-- 📊 Animated Contribution Snake -->
 <p align="center">
-  <svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 30 Q 240 0 480 30 T 900 30 V 60 H 0 Z" fill="#0b1020"/>
-  </svg>
+  <img src="https://github.com/Arunachalam-212223060022/Arunachalam-212223060022/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 💼 Experience
+---
 
-### 🛠 Intern – NSIC Technical Services Centre (Jul 2024)
-Circuit simulation, prototyping, hardware testing, and real-time analysis.
+# 💼 Experience
 
-### 💻 VLSI Intern – Codec Technology (Nov 2024)
-Hands-on Verilog, RTL, FPGA workflows, debugging & synthesis.
+### 🛠 Intern — NSIC Technical Services Centre (Jul 2024)
+Circuit simulation, prototype testing, PCB workflows.
 
-### 📘 Freelance Teaching Professional (2023 – Present)
-STEM tutoring with a focus on conceptual understanding and progress.
+### 💻 VLSI Intern — Codec Technology (Nov 2024)
+Verilog, RTL, FPGA, debugging & synthesis.
+
+### 📘 Freelance Teaching (2023–Present)
+STEM tutoring with concept-first approach.
 
 ---
 
-## 🎓 Education
-
-- **B.E. Electronics and Communication Engineering**  
+# 📚 Education
+- **B.E. Electronics & Communication Engineering** — CGPA: 8.4  
   Saveetha Engineering College, Chennai  
-  CGPA: 8.4 / 10
-
-- **Higher Secondary (XII)**  
-  DAV MHSS — 81%
+- **Higher Secondary (XII)** — 81%  
+  DAV MHSS
 
 ---
 
-## 🔗 Connect with Me
+<!-- 🎯 Easter Egg Button -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Click%20Me-%F0%9F%94%A5%20Easter%20Egg%20Inside-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+# 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:arunachalam862005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Arunachalam-212223060022">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Arunachalam-111?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/arunachalam-p-12445b290">
     <img src="https://img.shields.io/badge/LinkedIn-Arunachalam-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -154,5 +187,8 @@ STEM tutoring with a focus on conceptual understanding and progress.
 </p>
 
 <p align="center">
-  <sub>✨ Appreciate you stopping by — have an amazing day.</sub>
+  <sub>✨ Thanks for scrolling — you're officially awesome.</sub>
 </p>
+
+
+<!-- ✨ Terminal Aesthetic Box -->
