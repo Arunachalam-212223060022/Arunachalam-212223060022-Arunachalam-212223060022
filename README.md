@@ -54,15 +54,14 @@ and understanding what the **signal** is trying to say.
 
 ## 🧾 Terminal Card
 
-
-who am I
+whoami
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
 focus --areas
 RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 
 mindset
-iterate -> simulate -> debug -> refine -> build
+iterate → simulate → debug → refine → build
 
 ---
 
