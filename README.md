@@ -48,7 +48,7 @@ Currently exploring **VLSI, RTL architecture, FPGA flows, embedded systems, and 
 
 <!-- ================== TERMINAL BLOCK ================== -->
 ```
-> whoami
+> who am I
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
 > focus --areas
@@ -78,9 +78,7 @@ they became real only in 1993, which unlocked white LEDs and modern displays.
         <stop offset="100%" stop-color="#a855f7"/>
       </linearGradient>
     </defs>
-
     <rect x="5" y="10" rx="18" ry="18" width="610" height="110" fill="url(#vlsiGrad)" stroke="#4b5563" stroke-width="1.2"/>
-
     <!-- Chip outline -->
     <rect x="40" y="35" rx="10" ry="10" width="110" height="60" fill="#020617" stroke="url(#chipGrad)" stroke-width="2"/>
     <!-- Pins -->
@@ -88,18 +86,15 @@ they became real only in 1993, which unlocked white LEDs and modern displays.
       <line x1="40" y1="45" x2="25" y2="45"/>
       <line x1="40" y1="60" x2="25" y2="60"/>
       <line x1="40" y1="75" x2="25" y2="75"/>
-
       <line x1="150" y1="45" x2="165" y2="45"/>
       <line x1="150" y1="60" x2="165" y2="60"/>
       <line x1="150" y1="75" x2="165" y2="75"/>
-
       <line x1="70" y1="95" x2="70" y2="110"/>
       <line x1="95" y1="95" x2="95" y2="110"/>
       <line x1="120" y1="95" x2="120" y2="110"/>
     </g>
     <!-- Chip inner pattern -->
     <polyline points="55,80 70,55 90,70 110,45 135,70" fill="none" stroke="url(#chipGrad)" stroke-width="2.2"/>
-
     <!-- Text -->
     <text x="210" y="55" fill="#e5e7eb" font-size="20" font-family="Segoe UI, system-ui">VLSI • RTL • Digital Design</text>
     <text x="210" y="80" fill="#9ca3af" font-size="13.5" font-family="Segoe UI, system-ui">
