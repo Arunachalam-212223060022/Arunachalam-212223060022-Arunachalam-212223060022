@@ -66,25 +66,22 @@ iterate -> simulate -> debug -> refine -> build
 
 ---
 
-<div align="center">
-<p style="
-  padding: 16px;
-  width: 80%;
-  border-radius: 14px;
-  background: #0f0f0f;
-  border: 1px solid rgba(0, 255, 255, 0.4);
-  box-shadow: 0 0 10px rgba(0, 255, 255, 0.3),
-              0 0 25px rgba(0, 255, 255, 0.25);
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 17px;
+<table align="center">
+<tr>
+<td align="center" width="85%" style="
+  padding: 18px;
+  border: 2px solid #00eaff;
+  border-radius: 12px;
+  background: rgba(0, 20, 30, 0.85);
   color: #d9faff;
+  font-size: 18px;
+  box-shadow: 0 0 12px #00eaffaa;
 ">
-<b>Q:</b> Why can't Python developers C?<br>
+<b>Q:</b> Why can't Python developers C?<br><br>
 <b>A:</b> Because they keep getting lost in the indentation.
-</p>
-</div>
-
-
+</td>
+</tr>
+</table>
 
 
 
