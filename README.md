@@ -100,7 +100,7 @@ and almost every modern lighting technology we use today.
 
 </div>
 
---- 
+
 <p align="center">
   <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -135,7 +135,7 @@ and almost every modern lighting technology we use today.
     </path>
   </svg>
 </p>
---- 
+
 
 # 🧠 Skill Radar (3D-style bar levels)
 
