@@ -1,7 +1,4 @@
-<!--
-  NEXT-LEVEL README FOR: Arunachalam P
-  Add to repo: Arunachalam-212223060022/Arunachalam-212223060022
--->
+<!-- NEXT-LEVEL README FOR: Arunachalam P -->
 
 <!-- ✨ Gradient Hero Banner -->
 <p align="center">
@@ -65,10 +62,12 @@ iterate -> simulate -> debug -> refine -> build
 fun_fact
 My code works… eventually.
 
+yaml
+Copy code
 
 ---
 
-<!-- 💠 TECH RADAR (Radar Chart) -->
+<!-- 💠 TECH RADAR -->
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['RTL','VLSI','Embedded','Debugging','Circuits','Simulation'],datasets:[{label:'Skill Level',data:[90,85,80,88,82,90],borderColor:'rgb(93,112,255)',backgroundColor:'rgba(93,112,255,0.3)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="500">
 </p>
@@ -77,7 +76,6 @@ My code works… eventually.
 
 # 🚀 Tech Stack
 
-<!-- 🔥 Icon Row (3D-like) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,vscode,bash&theme=dark" />
 </p>
@@ -92,14 +90,15 @@ ESP-32 · Arduino · IoT · Analog/Digital Electronics · Sensors & Actuators
 Quartus · Vivado · Cadence Virtuoso · Multisim · LTspice · Proteus · PCB Layout
 
 ### **Debugging / Analysis / Simulation**
-Timing Analysis · Logic Analysis · Testbench Creation · RTL Synthesis · Hardware Debugging
+Timing Analysis · Logic Analysis · Testbench Creation  
+RTL Synthesis · Hardware Debugging · Circuit Simulation
 
 ### **Platforms / Tools**
 VS Code · Git · Google Colab · MATLAB · TinkerCAD · Arduino IDE
 
 ---
 
-<!-- 🔥 Glow Panels for Key Skills -->
+# 🔥 Highlight Skills
 <div align="center">
 
 <table>
@@ -124,18 +123,22 @@ VS Code · Git · Google Colab · MATLAB · TinkerCAD · Arduino IDE
 
 # 🧪 Projects
 
-### 🔹 Indoor Navigation using A* Algorithm
+### 🔹 Indoor Navigation using A* Algorithm  
 Pathfinding with heuristics, grid mapping, and simulation.
 
-### 🔹 Smart Pill Dispenser using ESP-32
+### 🔹 Smart Pill Dispenser using ESP-32  
 Timed dispensing with sensors + embedded logic.
 
-### 🔹 Traffic Light Controller (FPGA + Verilog)
-FSM-based controller synthesized and tested in Quartus.
+### 🔹 Traffic Light Controller (FPGA + Verilog)  
+FSM-based controller designed in Verilog and synthesized in Quartus.
 
 ---
 
-<!-- 📊 Animated Contribution Snake -->
+# 🐍 GitHub Contribution Snake (Working Link)
+
+### ✔ This uses the correct repo name  
+### ✔ Will load automatically after workflow runs
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arunachalam-212223060022/Arunachalam-212223060022/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -144,13 +147,13 @@ FSM-based controller synthesized and tested in Quartus.
 
 # 💼 Experience
 
-### 🛠 Intern — NSIC Technical Services Centre (Jul 2024)
+### 🛠 Intern — NSIC Technical Services Centre (Jul 2024)  
 Circuit simulation, prototype testing, PCB workflows.
 
-### 💻 VLSI Intern — Codec Technology (Nov 2024)
+### 💻 VLSI Intern — Codec Technology (Nov 2024)  
 Verilog, RTL, FPGA, debugging & synthesis.
 
-### 📘 Freelance Teaching (2023–Present)
+### 📘 Freelance Teaching (2023–Present)  
 STEM tutoring with concept-first approach.
 
 ---
@@ -160,15 +163,6 @@ STEM tutoring with concept-first approach.
   Saveetha Engineering College, Chennai  
 - **Higher Secondary (XII)** — 81%  
   DAV MHSS
-
----
-
-<!-- 🎯 Easter Egg Button -->
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Click%20Me-%F0%9F%94%A5%20Easter%20Egg%20Inside-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
@@ -189,6 +183,3 @@ STEM tutoring with concept-first approach.
 <p align="center">
   <sub>✨ Thanks for scrolling — you're officially awesome.</sub>
 </p>
-
-
-<!-- ✨ Terminal Aesthetic Box -->
