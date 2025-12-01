@@ -36,26 +36,11 @@
 
 ## 🔥 About Me
 
-I'm **Arunachalam**, an ECE engineer who likes problems that are:
+I’m **Arunachalam**, an Electronics and Communication Engineering student with a focused interest in VLSI, RTL design, FPGA development, and embedded systems. I am deeply motivated by understanding how hardware behaves beyond the surface—how signals propagate, how timing constraints shape design decisions, and how a system evolves from a conceptual block diagram to a functioning implementation.
 
-- too logical for normal people  
-- too chaotic for textbooks  
-- and somehow perfect for me  
+My learning approach is grounded in structured exploration: simulate, observe, debug, refine, and build. I enjoy dissecting complex digital systems, analyzing their functional and timing characteristics, and applying hardware description languages to model real-world behavior with clarity and precision.
 
-I’m not the “it worked on the first try” type —  
-I’m the **simulate → debug → break → fix → refine** type.
-
-If it involves:
-
-- weird timing failures  
-- unstable waveforms  
-- dramatic circuits  
-- embedded systems that misbehave at 3 AM  
-
-…I’m automatically interested.
-
-I love turning **ideas → simulations → hardware**  
-and understanding what the **signal** is trying to say.
+I am currently strengthening my foundation in digital logic, RTL architecture, synthesis workflows, timing analysis, and system-level thinking. Whether it’s refining an RTL module, troubleshooting a waveform, or designing an embedded application, I aim to create solutions that are both technically sound and thoughtfully engineered.
 
 ---
 
